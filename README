@@ -1,0 +1,11 @@
+This is a proof-of-concept version of the freedroid pipe minigame using Love2D.
+I decided to use Love2D just to get the logic and the AI done.
+
+TODO:
+
+Write the resource loader and map drawing code.
+
+Map Generation:
+
+Randomly generate maps using CSP.
+
